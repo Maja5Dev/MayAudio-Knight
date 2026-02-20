@@ -8,24 +8,25 @@
 
 3. Put micropore tape over the vent in the Top Cover
   
-4. Cut the black dense foam (more see through one) from the Dekoni Foam Attenuation Kit and put it in the back.
+4. Cut the gray foam from the Dekoni Foam Attenuation Kit and put it in the back (cut according to the foam cutting helper).
+5. Then cut the shiny foam from the Dekoni Foam Attenuation Kit and put it in the back.
   
-5. Put the 3.5mm socket into the chassis and screw it in using a 4mm M3 screw.
+6. Put the 3.5mm socket into the chassis and screw it in using a 4mm M3 screw.
 
-6. Solder the driver to the 3.5mm socket.
+7. Solder the driver to the 3.5mm socket.
 
-7. Put the driver into the Driver Holder.
+8. Put the driver into the Driver Holder.
 
-8. Put the Driver Holder with the driver into the Chassis.
+9. Put the Driver Holder with the driver into the Chassis.
 
-9. Put the Body above the Driver Holder into the Chassis.
+10. Put the Body above the Driver Holder into the Chassis.
 
-10. Screw in the Body using 4x 10mm M3 screws.
+11. Screw in the Body using 4x 10mm M3 screws.
 
-11. Put the Top Cover over the Body.
+12. Put the Top Cover over the Body.
 Screw in the left and right holes with 12mm M3 screws.
 Screw in the top and bottom holes with 6mm M3 screws.
 
-12. Put the earpads on.
+13. Put the earpads on.
 
-13. Screw in the headband.
+14. Screw in the headband.

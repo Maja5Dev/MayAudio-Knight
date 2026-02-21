@@ -6,9 +6,14 @@
 
 2. Put heat inserts using a soldering iron into all 4mm holes. (2x holes for headband to screw in, 2x per Body, 7x per Chassis, 2x per driver holder)
 
+![Socket image](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260221_150648.jpg)
+
 3. Put micropore tape over the vent in the Top Cover
   
 4. Cut the gray foam from the Dekoni Foam Attenuation Kit and put it in the back (cut according to the foam cutting helper).
+
+![Socket image](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260221_150700.jpg)
+
 5. Then cut the shiny foam from the Dekoni Foam Attenuation Kit and put it in the back.
   
 6. Put the 3.5mm socket into the chassis and screw it in using a 4mm M3 screw.
@@ -21,11 +26,15 @@
 
 10. Put the Body above the Driver Holder into the Chassis.
 
+![Socket image](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260221_151135.jpg)
+
 11. Screw in the Body using 4x 10mm M3 screws.
 
 12. Put the Top Cover over the Body.
 Screw in the left and right holes with 12mm M3 screws.
 Screw in the top and bottom holes with 6mm M3 screws.
+
+![Socket image](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260221_153818.jpg)
 
 13. Put the earpads on.
 

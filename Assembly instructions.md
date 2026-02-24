@@ -10,7 +10,7 @@
 
 3. Put micropore tape over the vent in the Top Cover
   
-4. Cut the gray foam from the Dekoni Foam Attenuation Kit and put it in the back (cut according to the foam cutting helper).
+4. Cut the black dense foam from the Dekoni Foam Attenuation Kit and put it in the back (cut according to the foam cutting helper).
 
 ![Socket image](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260221_150700.jpg)
 
@@ -30,12 +30,14 @@
 
 11. Screw in the Body using 4x 10mm M3 screws.
 
-12. Put the Top Cover over the Body.
+12. Cut the gray foam to the top cover shape and put it in the back lips of the earpads.
+
+13. Put the Top Cover over the Body.
 Screw in the left and right holes with 12mm M3 screws.
 Screw in the top and bottom holes with 6mm M3 screws.
 
 ![Socket image](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260221_153818.jpg)
 
-13. Put the earpads on.
+14. Put the earpads on.
 
-14. Screw in the headband.
+15. Screw in the headband.

@@ -16,7 +16,7 @@
 
 5. Then cut the shiny foam from the Dekoni Foam Attenuation Kit and put it in the back.
   
-6. Put the 3.5mm socket into the chassis and screw it in using a 4mm M3 screw.
+6. Put the 3.5mm socket into the chassis and screw it in using a 6/8mm M3 screw.
 
 7. Solder the driver to the 3.5mm socket.
 
